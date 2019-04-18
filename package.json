@@ -1,0 +1,15 @@
+{
+  "name": "jwt_auth",
+  "version": "1.0.0",
+  "description": "Introduction to Authentication using JSON Web Tokens",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suvesh Baskar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
